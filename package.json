@@ -1,0 +1,20 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "jsdom": "^9.12.0",
+    "phantom": "^4.0.1",
+    "phantomjs": "^2.1.7",
+    "phantomjs-nodify": "^0.1.1",
+    "request": "^2.81.0",
+    "zombie": "^5.0.5"
+  }
+}
